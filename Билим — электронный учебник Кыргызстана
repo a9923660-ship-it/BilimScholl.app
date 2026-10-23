@@ -1,0 +1,398 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://bilimschool.netlify.app/
+Subject: =?utf-8?Q?=D0=91=D0=B8=D0=BB=D0=B8=D0=BC=20=E2=80=94=20=D1=8D=D0=BB=D0=B5?=
+ =?utf-8?Q?=D0=BA=D1=82=D1=80=D0=BE=D0=BD=D0=BD=D1=8B=D0=B9=20=D1=83=D1=87?=
+ =?utf-8?Q?=D0=B5=D0=B1=D0=BD=D0=B8=D0=BA=20=D0=9A=D1=8B=D1=80=D0=B3=D1=8B?=
+ =?utf-8?Q?=D0=B7=D1=81=D1=82=D0=B0=D0=BD=D0=B0?=
+Date: Fri, 23 Oct 2026 16:09:01 GMT
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--a59KAvgsayTlLGmvk0Ld2r1Ls71TGKsYyFo30QH1X5----"
+
+
+------MultipartBoundary--a59KAvgsayTlLGmvk0Ld2r1Ls71TGKsYyFo30QH1X5----
+Content-Type: text/html
+Content-ID: <frame-C2FD257FB19335E95B1AB3DD753E11ED@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://bilimschool.netlify.app/
+
+<!DOCTYPE html><html lang="ru"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-638dd52c-ae8d-4870-8a9e-e45df163b0f5@mhtml.blink" />
+  
+<!-- This site is hosted on Netlify. Anyone can build and deploy a site
+     like this one for free: https://netlify.new/?utm_campaign=loops&utm_source=ai-legible&utm_medium=owned&utm_content=comment&utm_id=ddb1f9f5-1b5f-4195-9603-8bab597033c5
+     Netlify hosting facts for this site: static/SSR served via Netlify Edge. -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Билим — электронный учебник Кыргызстана</title>
+  
+</head>
+<body>
+
+<header>
+  <div class="logo">Билим<span>.</span></div>
+  <nav>
+    <a href="https://bilimschool.netlify.app/#classes">Классы</a>
+    <a href="https://bilimschool.netlify.app/#books">Учебники</a>
+    <a href="https://bilimschool.netlify.app/#about">О проекте</a>
+  </nav>
+</header>
+
+<section class="hero">
+  <div class="hero-inner">
+    <span class="tag">🇰🇬 Образование доступно каждому</span>
+    <h1>Твоя школьная библиотека в одном месте</h1>
+    <p>
+      Электронные учебники для учеников Кыргызстана.
+      Выбирай класс, находи нужный предмет и учись
+      в удобное время — дома или в школе.
+    </p>
+
+    <form class="search" id="searchForm">
+      <input id="searchInput" placeholder="Например, математика, кыргызский язык..." aria-label="Поиск учебников">
+      <button type="submit">Найти</button>
+    </form>
+
+    <div class="stats">
+      <div><strong>11</strong><span>школьных классов</span></div>
+      <div><strong>1–11</strong><span>ступени обучения</span></div>
+      <div><strong>24/7</strong><span>доступ к каталогу</span></div>
+    </div>
+  </div>
+</section>
+
+<main>
+  <section id="classes">
+    <div class="section-head">
+      <div>
+        <h2>Выбери свой класс</h2>
+        <div class="muted">Нажми на класс, чтобы увидеть учебники</div>
+      </div>
+    </div>
+
+    <div class="classes" id="classGrid"><div class="class-card active">
+      <div class="number">1</div>
+      <small>Начальная школа</small>
+    </div><div class="class-card">
+      <div class="number">2</div>
+      <small>Начальная школа</small>
+    </div><div class="class-card">
+      <div class="number">3</div>
+      <small>Начальная школа</small>
+    </div><div class="class-card">
+      <div class="number">4</div>
+      <small>Начальная школа</small>
+    </div><div class="class-card">
+      <div class="number">5</div>
+      <small>Средняя школа</small>
+    </div><div class="class-card">
+      <div class="number">6</div>
+      <small>Средняя школа</small>
+    </div><div class="class-card">
+      <div class="number">7</div>
+      <small>Средняя школа</small>
+    </div><div class="class-card">
+      <div class="number">8</div>
+      <small>Средняя школа</small>
+    </div><div class="class-card">
+      <div class="number">9</div>
+      <small>Средняя школа</small>
+    </div><div class="class-card">
+      <div class="number">10</div>
+      <small>Старшая школа</small>
+    </div><div class="class-card">
+      <div class="number">11</div>
+      <small>Старшая школа</small>
+    </div></div>
+  </section>
+
+  <section id="books" style="margin-top:45px">
+    <div class="section-head">
+      <div>
+        <h2 id="booksTitle">Учебники всех классов</h2>
+        <div class="muted">Каталог учебных материалов по предметам</div>
+      </div>
+    </div>
+
+    <div class="filter-row">
+      <select id="subjectFilter" aria-label="Фильтр по предмету">
+        <option value="all">Все предметы</option>
+      <option value="Математика">Математика</option><option value="Русский язык">Русский язык</option><option value="Кыргыз тили">Кыргыз тили</option><option value="Кыргызская литература">Кыргызская литература</option><option value="Литературное чтение">Литературное чтение</option><option value="Окружающий мир">Окружающий мир</option><option value="История">История</option><option value="География">География</option><option value="Биология">Биология</option><option value="Физика">Физика</option><option value="Химия">Химия</option><option value="Английский язык">Английский язык</option><option value="Информатика">Информатика</option><option value="Алгебра">Алгебра</option><option value="Геометрия">Геометрия</option><option value="Каталог учебников">Каталог учебников</option></select>
+
+      <select id="gradeFilter" aria-label="Фильтр по классу">
+        <option value="all">Все классы</option>
+      <option value="1">1 класс</option><option value="2">2 класс</option><option value="3">3 класс</option><option value="4">4 класс</option><option value="5">5 класс</option><option value="6">6 класс</option><option value="7">7 класс</option><option value="8">8 класс</option><option value="9">9 класс</option><option value="10">10 класс</option><option value="11">11 класс</option></select>
+    </div>
+
+    <div class="books" id="bookGrid"><article class="book"><div class="book-top"><div class="book-icon">📘</div><div><h3>Учебники 1 класса</h3><div class="muted">1 класс · Каталог учебников</div></div></div><p>Открыть каталог учебников этого класса на Bizdin.kg. Выбери книгу на странице источника.</p><div class="book-actions"><button>Открыть каталог</button><button class="secondary">Bizdin.kg</button></div></article><article class="book"><div class="book-top"><div class="book-icon">📘</div><div><h3>Учебники 2 класса</h3><div class="muted">2 класс · Каталог учебников</div></div></div><p>Открыть каталог учебников этого класса на Bizdin.kg. Выбери книгу на странице источника.</p><div class="book-actions"><button>Открыть каталог</button><button class="secondary">Bizdin.kg</button></div></article><article class="book"><div class="book-top"><div class="book-icon">📘</div><div><h3>Учебники 3 класса</h3><div class="muted">3 класс · Каталог учебников</div></div></div><p>Открыть каталог учебников этого класса на Bizdin.kg. Выбери книгу на странице источника.</p><div class="book-actions"><button>Открыть каталог</button><button class="secondary">Bizdin.kg</button></div></article><article class="book"><div class="book-top"><div class="book-icon">📘</div><div><h3>Учебники 4 класса</h3><div class="muted">4 класс · Каталог учебников</div></div></div><p>Открыть каталог учебников этого класса на Bizdin.kg. Выбери книгу на странице источника.</p><div class="book-actions"><button>Открыть каталог</button><button class="secondary">Bizdin.kg</button></div></article><article class="book"><div class="book-top"><div class="book-icon">📘</div><div><h3>Учебники 5 класса</h3><div class="muted">5 класс · Каталог учебников</div></div></div><p>Открыть каталог учебников этого класса на Bizdin.kg. Выбери книгу на странице источника.</p><div class="book-actions"><button>Открыть каталог</button><button class="secondary">Bizdin.kg</button></div></article><article class="book"><div class="book-top"><div class="book-icon">📘</div><div><h3>Учебники 6 класса</h3><div class="muted">6 класс · Каталог учебников</div></div></div><p>Открыть каталог учебников этого класса на Bizdin.kg. Выбери книгу на странице источника.</p><div class="book-actions"><button>Открыть каталог</button><button class="secondary">Bizdin.kg</button></div></article><article class="book"><div class="book-top"><div class="book-icon">📘</div><div><h3>Учебники 7 класса</h3><div class="muted">7 класс · Каталог учебников</div></div></div><p>Открыть каталог учебников этого класса на Bizdin.kg. Выбери книгу на странице источника.</p><div class="book-actions"><button>Открыть каталог</button><button class="secondary">Bizdin.kg</button></div></article><article class="book"><div class="book-top"><div class="book-icon">📘</div><div><h3>Учебники 8 класса</h3><div class="muted">8 класс · Каталог учебников</div></div></div><p>Открыть каталог учебников этого класса на Bizdin.kg. Выбери книгу на странице источника.</p><div class="book-actions"><button>Открыть каталог</button><button class="secondary">Bizdin.kg</button></div></article><article class="book"><div class="book-top"><div class="book-icon">📘</div><div><h3>Учебники 9 класса</h3><div class="muted">9 класс · Каталог учебников</div></div></div><p>Открыть каталог учебников этого класса на Bizdin.kg. Выбери книгу на странице источника.</p><div class="book-actions"><button>Открыть каталог</button><button class="secondary">Bizdin.kg</button></div></article><article class="book"><div class="book-top"><div class="book-icon">📘</div><div><h3>Учебники 10 класса</h3><div class="muted">10 класс · Каталог учебников</div></div></div><p>Открыть каталог учебников этого класса на Bizdin.kg. Выбери книгу на странице источника.</p><div class="book-actions"><button>Открыть каталог</button><button class="secondary">Bizdin.kg</button></div></article><article class="book"><div class="book-top"><div class="book-icon">📘</div><div><h3>Учебники 11 класса</h3><div class="muted">11 класс · Каталог учебников</div></div></div><p>Открыть каталог учебников этого класса на Bizdin.kg. Выбери книгу на странице источника.</p><div class="book-actions"><button>Открыть каталог</button><button class="secondary">Bizdin.kg</button></div></article></div>
+
+    <div class="notice">
+      <strong>Источник учебников:</strong> ссылки открывают каталоги Bizdin.kg
+      по выбранному классу. PDF-файлы пока не скопированы на этот сайт;
+      они открываются на внешнем ресурсе. Для размещения самих файлов на своём
+      хостинге нужно получить разрешение и загрузить разрешённые PDF-файлы.
+    </div>
+  </section>
+
+  <section id="about" style="margin-top:48px">
+    <h2>Об электронном учебнике</h2>
+    <p class="muted" style="line-height:1.9;max-width:750px">
+      «Билим» — макет электронной школьной библиотеки для учащихся
+      Кыргызстана. Здесь можно организовать учебные материалы
+      с 1-го по 11-й класс, искать предметы и переходить к файлам
+      учебников. Сайт адаптирован для компьютеров, планшетов и телефонов.
+    </p>
+  </section>
+</main>
+
+<footer>
+  <strong>Билим. Электронная школьная библиотека</strong><br>
+  Образование и знания для каждого школьника Кыргызстана 🇰🇬<br>
+  Учебные материалы добавляются администратором сайта.
+</footer>
+
+
+
+
+
+<iframe id="nl-badge-frame" title="Powered by Netlify" src="cid:frame-C2F92F5CBC90680023413AFDAEC9AD8A@mhtml.blink" style="position: fixed; bottom: 0px; right: 0px; border: 0px; margin: 0px; padding: 0px; background: transparent; color-scheme: dark; z-index: 2147483645; width: 194px; height: 64px; clip-path: path(&quot;M 3 3 H 181 V 51 H 3 Z&quot;);" data-nl-ready="1"></iframe></body></html>
+------MultipartBoundary--a59KAvgsayTlLGmvk0Ld2r1Ls71TGKsYyFo30QH1X5----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-638dd52c-ae8d-4870-8a9e-e45df163b0f5@mhtml.blink
+
+@charset "utf-8";
+
+:root { --blue: #2457d6; --dark: #17243b; --green: #20a878; --bg: #f4f7fc; }
+
+* { box-sizing: border-box; }
+
+body { margin: 0px; font-family: Arial, sans-serif; color: var(--dark); background: var(--bg); }
+
+header { background: white; padding: 17px 7%; display: flex; justify-content: space-between; align-items: center; gap: 15px; box-shadow: rgba(20, 38, 75, 0.043) 0px 2px 15px; position: sticky; top: 0px; z-index: 5; }
+
+.logo { font-size: 25px; font-weight: 800; color: var(--blue); }
+
+.logo span { color: var(--green); }
+
+nav { display: flex; gap: 22px; }
+
+nav a { text-decoration: none; color: rgb(83, 96, 120); font-size: 14px; }
+
+.hero { padding: 65px 7% 55px; background: linear-gradient(125deg, rgb(23, 59, 153), rgb(50, 108, 233)); color: white; overflow: hidden; }
+
+.hero-inner { max-width: 1100px; margin: auto; }
+
+.tag { display: inline-block; background: rgba(255, 255, 255, 0.125); border: 1px solid rgba(255, 255, 255, 0.27); border-radius: 30px; padding: 9px 15px; font-size: 13px; }
+
+h1 { font-size: clamp(34px, 5vw, 56px); line-height: 1.12; max-width: 700px; margin: 23px 0px 16px; }
+
+.hero p { line-height: 1.7; max-width: 570px; color: rgb(225, 234, 255); }
+
+.search { display: flex; max-width: 620px; margin-top: 28px; background: white; border-radius: 12px; padding: 6px; gap: 8px; }
+
+.search input { min-width: 0px; flex: 1 1 0%; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; outline: none; padding: 13px; font-size: 15px; }
+
+button { border: 0px; cursor: pointer; border-radius: 9px; padding: 12px 18px; font-weight: bold; background: var(--blue); color: white; }
+
+.search button { background: var(--green); }
+
+.stats { display: flex; gap: 35px; margin-top: 30px; flex-wrap: wrap; }
+
+.stats strong { display: block; font-size: 23px; margin-bottom: 5px; }
+
+.stats span { color: rgb(220, 230, 255); font-size: 13px; }
+
+main { max-width: 1100px; margin: auto; padding: 42px 22px 70px; }
+
+.section-head { display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 23px; }
+
+h2 { font-size: 27px; margin: 0px 0px 8px; }
+
+.muted { color: rgb(113, 128, 152); font-size: 14px; }
+
+.classes { display: grid; grid-template-columns: repeat(6, 1fr); gap: 13px; }
+
+.class-card { background: white; border: 2px solid transparent; border-radius: 15px; padding: 19px 8px; cursor: pointer; text-align: center; transition: 0.2s; }
+
+.class-card:hover, .class-card.active { border-color: var(--blue); transform: translateY(-3px); box-shadow: rgba(36, 87, 214, 0.082) 0px 8px 25px; }
+
+.class-card .number { font-size: 27px; font-weight: 800; color: var(--blue); }
+
+.class-card small { display: block; margin-top: 7px; color: rgb(113, 128, 152); }
+
+.filter-row { display: flex; gap: 10px; margin: 25px 0px; flex-wrap: wrap; }
+
+select { background: white; border: 1px solid rgb(220, 227, 239); border-radius: 9px; padding: 12px; color: var(--dark); max-width: 100%; }
+
+.books { display: grid; grid-template-columns: repeat(3, 1fr); gap: 17px; }
+
+.book { background: white; border: 1px solid rgb(233, 237, 245); border-radius: 15px; padding: 20px; transition: 0.2s; }
+
+.book:hover { box-shadow: rgba(24, 44, 80, 0.063) 0px 8px 25px; }
+
+.book-top { display: flex; align-items: center; gap: 13px; margin-bottom: 17px; }
+
+.book-icon { width: 53px; height: 61px; flex-shrink: 0; display: grid; place-items: center; border-radius: 9px; background: rgb(232, 239, 255); font-size: 27px; }
+
+.book h3 { margin: 0px 0px 7px; font-size: 17px; }
+
+.book p { color: rgb(113, 128, 152); font-size: 13px; line-height: 1.5; }
+
+.book-actions { display: flex; gap: 8px; margin-top: 18px; }
+
+.book-actions button { flex: 1 1 0%; font-size: 12px; padding: 11px 7px; }
+
+.book-actions .secondary { background: rgb(234, 240, 255); color: var(--blue); }
+
+.empty { grid-column: 1 / -1; text-align: center; background: white; padding: 35px; border-radius: 14px; color: rgb(113, 128, 152); line-height: 1.7; }
+
+.notice { margin-top: 27px; background: rgb(234, 248, 242); border: 1px solid rgb(209, 238, 225); padding: 18px; border-radius: 12px; color: rgb(40, 102, 79); font-size: 14px; line-height: 1.7; }
+
+footer { background: rgb(23, 36, 59); color: rgb(203, 213, 231); text-align: center; padding: 30px 20px; font-size: 13px; line-height: 1.8; }
+
+@media (max-width: 800px) {
+  .classes { grid-template-columns: repeat(4, 1fr); }
+  .books { grid-template-columns: repeat(2, 1fr); }
+  nav { gap: 12px; }
+}
+
+@media (max-width: 520px) {
+  header { padding: 15px 5%; }
+  nav a:not(:last-child) { display: none; }
+  .hero { padding: 45px 6%; }
+  .classes { grid-template-columns: repeat(3, 1fr); }
+  .books { grid-template-columns: 1fr; }
+  .search button { padding: 10px; }
+  .stats { gap: 20px; }
+}
+------MultipartBoundary--a59KAvgsayTlLGmvk0Ld2r1Ls71TGKsYyFo30QH1X5----
+Content-Type: text/html
+Content-ID: <frame-C2F92F5CBC90680023413AFDAEC9AD8A@mhtml.blink>
+Content-Transfer-Encoding: binary
+
+<!DOCTYPE html><html class="nl-narrow" style="--nl-vw: 360px; --nl-vh: 668px;"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-83b49ab2-5121-4f78-afbf-48c2efc97b56@mhtml.blink" /><meta name="color-scheme" content="dark"></head><body>
+      <div class="nl-wrap">
+        <section class="nl-card" id="nl-card" aria-label="Build your own site on Netlify">
+          <button type="button" class="nl-icon-btn nl-tap nl-card-close" id="nl-card-close" aria-label="Close"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" aria-hidden="true"><path d="M4.5 4.5 11.5 11.5M11.5 4.5 4.5 11.5"></path></svg></button>
+          <h2><em>Build your own site with Netlify</em></h2>
+          <p>Describe what you want, and an AI agent designs, builds and deploys it in minutes.</p>
+          <form class="nl-prompt" action="https://app.netlify.com/start" method="get" target="_blank" rel="noopener">
+            <textarea name="prompt" rows="2" required="" maxlength="300" autocomplete="off" enterkeyhint="go" placeholder="A shop for my handmade surfboards…" aria-label="Describe the site you want to build"></textarea>
+            <button type="submit" class="nl-send nl-tap" aria-label="Build this site"><svg width="13" height="13" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 12.75v-9.5M3.9 7.35 8 3.25l4.1 4.1"></path></svg></button>
+            
+            
+            
+            
+            
+            
+          </form>
+          <div class="nl-or"><span>or</span></div>
+          <a class="nl-drop" href="https://app.netlify.com/drop?utm_source=netlify_badge&amp;utm_campaign=loops&amp;utm_medium=owned&amp;utm_content=drop&amp;utm_id=ddb1f9f5-1b5f-4195-9603-8bab597033c5" target="_blank" rel="noopener">
+            <span>Drop a site you already have</span><span class="nl-arrow" aria-hidden="true">→</span>
+          </a>
+          
+        </section>
+        <button type="button" class="nl-badge" id="nl-badge" aria-expanded="false" aria-controls="nl-card" aria-label="Powered by Netlify — build your own site">
+          <svg width="18" height="18" viewBox="0 0 32 32" fill="none" aria-hidden="true">
+    <path fill="#fff" d="M17.9922 18.3225H14.005L13.6746 17.9921V14.005L14.005 13.6746H17.9922L18.3226 14.005V17.9921L17.9922 18.3225Z"></path>
+    <g fill="#05BDBA">
+      <path d="M9.6958 24.3311H9.35705L7.6661 22.6401V22.3041L10.2511 19.7164L12.042 19.7191L12.2808 19.9552V21.7461L9.6958 24.3311Z"></path>
+      <path d="M7.6661 9.69576V9.35701L9.35705 7.66606H9.6958L12.2808 10.2511V12.0392L12.042 12.2808H10.2511L7.6661 9.69576Z"></path>
+      <path d="M10.0457 17.4369H0.205466L0 17.2314V14.7658L0.205466 14.5603H10.0457L10.2511 14.7658V17.2314L10.0457 17.4369Z"></path>
+      <path d="M31.7945 17.4369H21.9544L21.7489 17.2314V14.7658L21.9544 14.5603H31.7945L32 14.7658V17.2314L31.7945 17.4369Z"></path>
+      <path d="M14.5631 10.0456V2.66547L14.7686 2.46001H17.2343L17.4396 2.66547V10.0456L17.2343 10.2511H14.7686L14.5631 10.0456Z"></path>
+      <path d="M14.5631 29.3316V21.9515L14.7686 21.746H17.2343L17.4396 21.9515V29.3316L17.2343 29.5371H14.7686L14.5631 29.3316Z"></path>
+    </g></svg>
+          <span><span class="nl-badge-label">Powered by</span> <span class="nl-badge-brand">Netlify</span></span>
+        </button>
+      </div>
+      
+    </body></html>
+------MultipartBoundary--a59KAvgsayTlLGmvk0Ld2r1Ls71TGKsYyFo30QH1X5----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-83b49ab2-5121-4f78-afbf-48c2efc97b56@mhtml.blink
+
+@charset "utf-8";
+
+:root { --nl-vw: 360px; --nl-vh: 668px; }
+
+* { box-sizing: border-box; }
+
+html, body { margin: 0px; padding: 0px; background: transparent; overflow: hidden; }
+
+body { display: flex; align-items: flex-end; justify-content: flex-end; height: 100vh; padding: 8px 18px 18px 8px; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.5; color: rgb(244, 249, 249); -webkit-font-smoothing: antialiased; }
+
+.nl-wrap { display: flex; flex-direction: column; align-items: flex-end; gap: 10px; width: max-content; max-width: calc(var(--nl-vw,100vw) - 26px); }
+
+button { font-family: inherit; cursor: pointer; }
+
+:focus-visible { outline: rgb(50, 230, 226) solid 2px; outline-offset: 2px; border-radius: 6px; }
+
+.nl-icon-btn { position: relative; flex: 0 0 auto; width: 30px; height: 30px; display: inline-flex; align-items: center; justify-content: center; border-radius: 8px; border: 1px solid transparent; background: transparent; color: rgb(213, 227, 230); transition: background 0.15s, color 0.15s; }
+
+.nl-icon-btn:hover { background: rgba(255, 255, 255, 0.08); color: rgb(244, 249, 249); }
+
+.nl-tap::after { content: ""; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: max(100%, 44px); height: max(100%, 44px); }
+
+@keyframes nl-rise { 
+  0% { opacity: 0; transform: translateY(10px) scale(0.97); }
+  100% { opacity: 1; transform: none; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { animation-duration: 0.01ms !important; transition: none !important; }
+}
+
+.nl-card { position: relative; display: none; width: min(340px,calc(var(--nl-vw,100vw) - 26px)); max-height: calc(var(--nl-vh,100vh) - 84px); overflow-y: auto; background: linear-gradient(rgb(19, 40, 50) 0%, rgb(14, 30, 37) 100%); border: 1px solid rgba(255, 255, 255, 0.09); border-radius: 18px; padding: 18px; transform-origin: right bottom; animation: 0.3s cubic-bezier(0.34, 1.4, 0.4, 1) 0s 1 normal both running nl-rise; }
+
+.nl-card.open { display: block; }
+
+.nl-card-close { position: absolute; top: 10px; right: 10px; }
+
+.nl-card h2 { margin: 0px; padding-right: 30px; font-size: 16px; font-weight: 750; letter-spacing: -0.015em; line-height: 1.35; }
+
+.nl-card h2 em { font-style: normal; background: linear-gradient(90deg, rgb(50, 230, 226), rgb(77, 124, 254), rgb(154, 107, 255)) text; -webkit-text-fill-color: transparent; color: transparent; }
+
+.nl-card p { margin: 8px 0px 0px; font-size: 12.5px; color: rgb(213, 227, 230); }
+
+.nl-prompt { position: relative; margin-top: 14px; background: rgb(16, 34, 43); border: 1px solid rgba(255, 255, 255, 0.09); border-radius: 14px; padding: 10px 12px; transition: border-color 0.15s, box-shadow 0.15s; }
+
+.nl-prompt:focus-within { border-color: rgb(5, 189, 186); box-shadow: rgba(5, 189, 186, 0.18) 0px 0px 0px 3px; }
+
+.nl-prompt textarea { display: block; width: 100%; height: 38px; resize: none; border: 0px; outline: none; background: transparent; color: rgb(244, 249, 249); font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-family: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; font-size: 13px; line-height: 19px; padding: 0px 28px 0px 0px; }
+
+.nl-prompt textarea::placeholder { color: rgb(169, 189, 194); }
+
+.nl-send { position: absolute; right: 9px; bottom: 9px; width: 24px; height: 24px; flex: 0 0 auto; display: inline-flex; align-items: center; justify-content: center; border: 0px; border-radius: 50%; background: rgb(5, 189, 186); color: rgb(2, 25, 27); transition: background 0.15s; }
+
+.nl-send:hover { background: rgb(50, 230, 226); }
+
+@media (pointer: coarse) {
+  .nl-prompt textarea { font-size: 16px; line-height: 21px; height: 42px; }
+}
+
+.nl-or { display: flex; align-items: center; gap: 10px; margin: 12px 0px; font-size: 10.5px; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: rgb(169, 189, 194); }
+
+.nl-or::before, .nl-or::after { content: ""; flex: 1 1 0%; height: 1px; background: rgba(255, 255, 255, 0.09); }
+
+.nl-drop { display: flex; align-items: center; justify-content: space-between; gap: 6px; text-decoration: none; background: rgb(27, 58, 69); border: 1px solid rgba(255, 255, 255, 0.09); border-radius: 10px; padding: 10px 12px; font-size: 13px; font-weight: 600; color: rgb(207, 224, 227); transition: background 0.15s, color 0.15s, border-color 0.15s; }
+
+.nl-drop:hover { background: rgb(34, 71, 83); color: rgb(244, 249, 249); border-color: rgba(50, 230, 226, 0.3); }
+
+.nl-drop .nl-arrow { transition: transform 0.18s cubic-bezier(0.34, 1.4, 0.4, 1); }
+
+.nl-drop:hover .nl-arrow { transform: translateX(3px); }
+
+.nl-badge { display: flex; align-items: center; gap: 9px; white-space: nowrap; border: 1px solid rgba(255, 255, 255, 0.09); background: linear-gradient(rgb(20, 43, 52), rgb(14, 30, 37)); color: rgb(244, 249, 249); border-radius: 999px; padding: 9px 14px 9px 11px; font-size: 13px; font-weight: 600; letter-spacing: 0.01em; transition: border-color 0.2s; }
+
+.nl-badge:hover { border-color: rgba(50, 230, 226, 0.26); }
+
+.nl-hide { display: block; width: 100%; margin-top: 10px; border: 0px; background: transparent; color: rgb(169, 189, 194); font-size: 11.5px; font-weight: 600; padding: 4px; border-radius: 8px; transition: color 0.15s; }
+
+.nl-hide:hover { color: rgb(213, 227, 230); text-decoration: underline; }
+
+.nl-badge-label { color: rgb(213, 227, 230); font-weight: 500; }
+
+.nl-badge-brand { font-weight: 750; }
+------MultipartBoundary--a59KAvgsayTlLGmvk0Ld2r1Ls71TGKsYyFo30QH1X5------
